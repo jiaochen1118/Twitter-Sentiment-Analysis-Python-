@@ -9,4 +9,4 @@ Offer every tweet, we will offer the sentiment score of the tweet by measuring t
 
 ##Derive the sentiment of new terms ##
 Try to estimate the term, which is not in AFINN-111.txt file. We try to estimate the term based on the rate of  backwarding to deduce the sentiment of the non-sentiment carrying words. For example, if the word soccer always appears in proximity with positive words like great and fun, then we can deduce that the term soccer itself carries a positive sentiment. 
-# Twitter-Sentiment-Analysis-in-Python
+
